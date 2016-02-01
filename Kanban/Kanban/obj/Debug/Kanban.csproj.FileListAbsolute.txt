@@ -1,0 +1,10 @@
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\EntityFramework.dll
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\EntityFramework.xml
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\obj\Debug\Kanban.csprojResolveAssemblyReference.cache
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Dev\Origin\14-Kanban\Kanban\Kanban\obj\Debug\Kanban.pdb
